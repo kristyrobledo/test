@@ -1,2 +1,2 @@
 # test
-A test repo to demonstrate github, creted by Kristy 
+A test repo to demonstrate github, created by Kristy 
